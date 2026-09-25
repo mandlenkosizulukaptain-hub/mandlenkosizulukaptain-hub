@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi, I'm Mandlenkosi E. Zulu 
 
-<!--
-**mandlenkosizulukaptain-hub/mandlenkosizulukaptain-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** focused on building reliable, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital solutions and continuously sharpening my skills through real-world projects.
 
-Here are some ideas to get you started:
+My interests span **software development, web technologies, UI/UX design, and problem-solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Technical Skills
+
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Framework:** Django
+- **Version Control:** Git, GitHub
+- **Design:** Figma, Canva
+- **Tools:** Lovable, Adobe Firefly
+
+###  Current Focus
+
+I'm developing my skills in **full-stack software development**, with an emphasis on building complete applications — understanding both frontend and backend development — and writing clean, maintainable code.
+
+
+###  Projects
+
+- **[SolarShop](#)** — A Django-based e-commerce application for solar products.
+- **[ParkSafe](#)** — A UX/UI project designed to help truck drivers find and reserve safe parking.
+
+
+###  Connect With Me
+
+ **Email:** mandlenkosizulukaptain@gmail.com
+
+I'm open to **collaboration, learning opportunities, and building meaningful software projects**.
+
+
+
