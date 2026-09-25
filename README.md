@@ -20,7 +20,6 @@ I'm developing my skills in **full-stack software development**, with an emphasi
 ###  Projects
 
 - **[SolarShop](#)** — A Django-based e-commerce application for solar products.
-- **[ParkSafe](#)** — A UX/UI project designed to help truck drivers find and reserve safe parking.
 
 
 ###  Connect With Me
