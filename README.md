@@ -14,12 +14,12 @@ My interests span **software development, web technologies, UI/UX design, and pr
 
 ###  Current Focus
 
-I'm developing my skills in **full-stack software development**, with an emphasis on building complete applications — understanding both frontend and backend development — and writing clean, maintainable code.
+I'm developing my skills in **full-stack software development**, with an emphasis on building complete applications  understanding both frontend and backend development  and writing clean, maintainable code.
 
 
 ###  Projects
 
-- **[SolarShop](#)** — A Django-based e-commerce application for solar products.
+- **[SolarShop](#)**  A Django-based e-commerce application for solar products.
 
 
 ###  Connect With Me
