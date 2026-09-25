@@ -25,7 +25,7 @@ I'm developing my skills in **full-stack software development**, with an emphasi
 ###  Connect With Me
 
  **Email:** mandlenkosizulukaptain@gmail.com
-
+**LinkedIn**https://www.linkedin.com/in/mandlenkosi-zulu-kaptain-056a7a405/ 
 I'm open to **collaboration, learning opportunities, and building meaningful software projects**.
 
 
